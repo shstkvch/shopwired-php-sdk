@@ -1,8 +1,8 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Requests\Extending;
+namespace Shstkvch\ShopWiredPHPSDK\Requests\Extending;
 
-use Appoly\ShopWiredPHPSDK\Requests\Get;
+use Shstkvch\ShopWiredPHPSDK\Requests\Get;
 
 trait SubGet
 {

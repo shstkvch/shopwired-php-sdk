@@ -1,8 +1,8 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Requests\Extending;
+namespace Shstkvch\ShopWiredPHPSDK\Requests\Extending;
 
-use Appoly\ShopWiredPHPSDK\Requests\Update;
+use Shstkvch\ShopWiredPHPSDK\Requests\Update;
 
 trait SubUpdate
 {

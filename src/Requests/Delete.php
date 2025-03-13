@@ -1,9 +1,9 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Requests;
+namespace Shstkvch\ShopWiredPHPSDK\Requests;
 
-use Appoly\ShopWiredPHPSDK\ShopWiredClient;
-use Appoly\ShopWiredPHPSDK\ShopWiredThrottle;
+use Shstkvch\ShopWiredPHPSDK\ShopWiredClient;
+use Shstkvch\ShopWiredPHPSDK\ShopWiredThrottle;
 
 trait Delete
 {

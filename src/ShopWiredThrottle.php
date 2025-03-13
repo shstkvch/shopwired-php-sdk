@@ -1,6 +1,6 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK;
+namespace Shstkvch\ShopWiredPHPSDK;
 
 use Redis;
 
@@ -9,10 +9,14 @@ class ShopWiredThrottle
     const BUCKET_SIZE = 30; // Originally 40
     const DRAIN_PER_SECOND = 2;
 
-    private static $enabled = true;
+    private static $enabled = false;
 
     public static function throttle()
     {
+        if (!self::$enabled) {
+            return;
+        }
+
         self::addEvent();
         while (self::isBucketFull()) {
             //dump("HIT DELAY");

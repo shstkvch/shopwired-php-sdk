@@ -1,10 +1,10 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Models\Products;
+namespace Shstkvch\ShopWiredPHPSDK\Models\Products;
 
-use Appoly\ShopWiredPHPSDK\Requests\Extending\SubCreate;
-use Appoly\ShopWiredPHPSDK\Requests\Extending\SubDelete;
-use Appoly\ShopWiredPHPSDK\Requests\Extending\SubUpdate;
+use Shstkvch\ShopWiredPHPSDK\Requests\Extending\SubCreate;
+use Shstkvch\ShopWiredPHPSDK\Requests\Extending\SubDelete;
+use Shstkvch\ShopWiredPHPSDK\Requests\Extending\SubUpdate;
 
 class ProductOptionValues
 {

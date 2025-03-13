@@ -1,9 +1,9 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Models\Products;
+namespace Shstkvch\ShopWiredPHPSDK\Models\Products;
 
-use Appoly\ShopWiredPHPSDK\Requests\Create;
-use Appoly\ShopWiredPHPSDK\Requests\Get;
+use Shstkvch\ShopWiredPHPSDK\Requests\Create;
+use Shstkvch\ShopWiredPHPSDK\Requests\Get;
 
 class Stock
 {

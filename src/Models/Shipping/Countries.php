@@ -1,9 +1,9 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Models\Shipping;
+namespace Shstkvch\ShopWiredPHPSDK\Models\Shipping;
 
-use Appoly\ShopWiredPHPSDK\Requests\All;
-use Appoly\ShopWiredPHPSDK\Requests\Get;
+use Shstkvch\ShopWiredPHPSDK\Requests\All;
+use Shstkvch\ShopWiredPHPSDK\Requests\Get;
 
 class Countries
 {

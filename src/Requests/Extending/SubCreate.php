@@ -1,8 +1,8 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Requests\Extending;
+namespace Shstkvch\ShopWiredPHPSDK\Requests\Extending;
 
-use Appoly\ShopWiredPHPSDK\Requests\Create;
+use Shstkvch\ShopWiredPHPSDK\Requests\Create;
 
 trait SubCreate
 {

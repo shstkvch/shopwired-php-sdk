@@ -1,12 +1,12 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Models\Products;
+namespace Shstkvch\ShopWiredPHPSDK\Models\Products;
 
-use Appoly\ShopWiredPHPSDK\Requests\All;
-use Appoly\ShopWiredPHPSDK\Requests\Create;
-use Appoly\ShopWiredPHPSDK\Requests\Delete;
-use Appoly\ShopWiredPHPSDK\Requests\Get;
-use Appoly\ShopWiredPHPSDK\Requests\Update;
+use Shstkvch\ShopWiredPHPSDK\Requests\All;
+use Shstkvch\ShopWiredPHPSDK\Requests\Create;
+use Shstkvch\ShopWiredPHPSDK\Requests\Delete;
+use Shstkvch\ShopWiredPHPSDK\Requests\Get;
+use Shstkvch\ShopWiredPHPSDK\Requests\Update;
 
 class DigitalFiles
 {

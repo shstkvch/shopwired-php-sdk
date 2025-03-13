@@ -1,8 +1,8 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Requests\Extending;
+namespace Shstkvch\ShopWiredPHPSDK\Requests\Extending;
 
-use Appoly\ShopWiredPHPSDK\Requests\All;
+use Shstkvch\ShopWiredPHPSDK\Requests\All;
 
 trait SubAll
 {

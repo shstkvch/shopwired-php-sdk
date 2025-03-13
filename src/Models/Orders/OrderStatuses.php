@@ -1,8 +1,8 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Models\Orders;
+namespace Shstkvch\ShopWiredPHPSDK\Models\Orders;
 
-use Appoly\ShopWiredPHPSDK\Requests\All;
+use Shstkvch\ShopWiredPHPSDK\Requests\All;
 
 class OrderStatuses
 {

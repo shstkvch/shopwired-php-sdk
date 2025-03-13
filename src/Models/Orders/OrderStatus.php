@@ -1,10 +1,10 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Models\Orders;
+namespace Shstkvch\ShopWiredPHPSDK\Models\Orders;
 
-use Appoly\ShopWiredPHPSDK\Requests\All;
-use Appoly\ShopWiredPHPSDK\Requests\Extending\SubAll;
-use Appoly\ShopWiredPHPSDK\Requests\Extending\SubCreate;
+use Shstkvch\ShopWiredPHPSDK\Requests\All;
+use Shstkvch\ShopWiredPHPSDK\Requests\Extending\SubAll;
+use Shstkvch\ShopWiredPHPSDK\Requests\Extending\SubCreate;
 
 class OrderStatus
 {

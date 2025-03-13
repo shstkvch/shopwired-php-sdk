@@ -1,8 +1,8 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Models\Filters;
+namespace Shstkvch\ShopWiredPHPSDK\Models\Filters;
 
-use Appoly\ShopWiredPHPSDK\Requests\All;
+use Shstkvch\ShopWiredPHPSDK\Requests\All;
 
 class FilterGroups
 {

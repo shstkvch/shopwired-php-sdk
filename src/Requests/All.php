@@ -1,9 +1,9 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK\Requests;
+namespace Shstkvch\ShopWiredPHPSDK\Requests;
 
-use Appoly\ShopWiredPHPSDK\ShopWiredClient;
-use Appoly\ShopWiredPHPSDK\ShopWiredThrottle;
+use Shstkvch\ShopWiredPHPSDK\ShopWiredClient;
+use Shstkvch\ShopWiredPHPSDK\ShopWiredThrottle;
 
 trait All
 {
@@ -25,6 +25,6 @@ trait All
 
         $response_body = $response->getBody()->getContents();
 
-        return json_decode($response_body);
+        return json_decode($response_body, true);
     }
 }

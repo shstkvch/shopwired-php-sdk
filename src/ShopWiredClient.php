@@ -1,6 +1,6 @@
 <?php
 
-namespace Appoly\ShopWiredPHPSDK;
+namespace Shstkvch\ShopWiredPHPSDK;
 
 use GuzzleHttp\Client;
 
